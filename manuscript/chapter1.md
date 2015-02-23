@@ -14,7 +14,7 @@
 
 ### lisp 是好东西<a id="sec-1-1-1" name="sec-1-1-1"></a>
 
-![](//imgs.xkcd.com/comics/lisp_cycles.png)
+![](../img/lisp_cycles.png)
 
 上世纪50年代的就有了lisp语言，都不能说它不是一门语言，因为他太多种方言了。虽然一直都不温不火，但是随着系统逻辑和计算越来越复杂，再加上分布式和并行计算。人们突然发现函数式是一个好东西，state is evil。目前比较流行的lisp方言是Clojure，Scheme。
 
